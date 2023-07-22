@@ -12,7 +12,8 @@
 # 프로젝트 시연 영상 <과제3>
 
 
-https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/1b08158f-861d-4e23-b65a-cd8e96d3d2a3
+https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/908e9bed-0504-419b-9c69-47503a2e998a
+
 
 
 &nbsp;
@@ -29,7 +30,7 @@ https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/1b08158f-861d-4e23-b
 &nbsp;
 
 ## ✓프로젝트 구조
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/dbb51e2d-edaf-4dca-8763-da949b996a07)
+![프로젝트 구조2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/f78882e7-d212-4104-b958-7b2ae8d72580)
 ## ✓사용기술
 ### Backend
 * java,  Python </br>
@@ -80,126 +81,137 @@ https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/1b08158f-861d-4e23-b
 
 ## ✓기능 실행화면
 ### 메인화면페이지
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/b6f6119c-6f5d-439a-9a5a-999c011f3f11)
+![5](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/240ddae9-1eab-4536-ac94-909d5de39ba7)
+&nbsp;
+
 ## 게시판 기능
 ### 모든 게시글 및 특정 게시글 조회
 * ###### 모든 게시글을 조회할 수 있습니다. 페이징 기능을 통해 한 페이지에서 최대 10개의 게시글이 조회됩니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/0d75db69-c0dd-4576-b289-2dc858323ae1)
+![21(게시판 페이징)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/fd55d0ca-4375-4592-9a32-c55534f52a16)
 * ###### 게시글의 제목을 클릭하면, 게시글의 상세내용을 조회할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/879a9e6e-35f6-4f0c-b801-5b1ee7afd95e)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/7f42b980-ad6b-4533-957e-cb2392cfb979)
+![23(게시글)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/da2d543e-2173-486a-8f0d-b96c508df433)
 ### 특정 게시글 검색 (제목, 작성자, 작성일)
 * ###### 게시글의 제목과 작성자 또는 작성일로 게시글을 검색할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c343c4da-2053-44fd-8e40-bfea3be8b0b3)
+![22](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/929feb93-d7a7-4f8a-899f-911c1b503aa2)
 ### 게시글 작성
 * ###### 로그인한 사용자는 게시글을 작성할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/e7aba42c-816b-459d-92d6-beca733d813e)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/8df4660d-39a4-4265-ae54-bbde74b4ef89)
+![24](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/aefda6cc-95c5-4da5-a3ba-a5e1edd57445)
+![24_2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c2667cf0-660f-41ef-98e2-e976fe3cf168)
 * ###### 로그인하지 않았을 경우 글 작성이 제한됩니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/2dc4bc96-abee-4310-a13b-190b097427d8)
+![25](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/817f7e20-b52d-4997-9a99-a1e3e727a153)
 ### 게시글 수정
 * ###### 게시글 작성자는 게시글을 수정할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/fa85f4cf-7e8a-45d2-a906-14bee77ace31)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/25dc46b3-3dfb-4a61-8274-9a10d6c7232a)
+![26(게시글 수정)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/f4771c07-b36e-487a-9e06-5469793a4d1e)
+![26_2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/2905df00-5f4c-40e7-a119-a55a66c7b978)
 ### 게시글 삭제
 * ###### 게시글 작성자는 게시글을 삭제할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c2bd23b6-fc4f-408b-8587-559ad2074817)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/63e829f5-dc9e-481e-be00-912e8ab75399)
+![27(게시글 삭제)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/5d161ddc-de99-4b5c-80e0-a7b9e2ff8ea8)
+![27_2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/be5cb152-0f24-43c3-95f3-aeae2a62e7a0)
 &nbsp;
+
 ## 댓글 기능
 ### 댓글 작성
 * ###### 특정 게시글에 대한 댓글을 작성할 수 있습니다. 게시글 작성 과 마찬가지로 로그인한 사용자만 댓글을 작성할 수 있습니다. 그리고 작성한 댓글을 ```게시글 상세``` 에서 조회할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/8885c7b2-1571-46b8-afb3-0d9269ee5db1)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/332ee021-eab8-4d50-9ca7-73767add7852)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/a45230bd-7ed6-44e4-9fb0-cab2a252fe34)
+![28(댓글)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/b76b9916-cd25-4adb-b2c9-b4bb21e59ac0)
+![28_2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/5fb4db7c-b066-4cd7-a773-dd728307ea8c)
 * ###### 자신이 작성한 댓글을 수정할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/cc914d90-ed12-473a-afe7-f4ec92a30a09)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/f180f0d4-148a-43c9-b436-545f5c86fa8c)
+![29(댓글수정)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/96854ded-34a2-49ea-9ade-66984306a259)
+![29_2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c715ec52-135c-4330-8441-ff4b1958c37e)
+![29_3](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/66baeb15-74b8-43c2-ad88-51a6d649bd71)
 * ###### 자신이 작성한 댓글을 삭제할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/5ad86354-da05-460f-bef5-aab4d5aec6b6)
+![30(댓글삭제)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/70cacdf4-2f9a-4bd0-afc2-8dacf2f1f7ac)
 &nbsp;
 
 ## 파일 업로드 기능
 ### 파일 업로드 및 조회
 * ###### 게시글을 작성할 때 파일도 같이 업로드하여 게시판 조회시 업로드된 파일을 확인할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/04892d9e-7845-4679-9899-1a227406d9a9)
+![31(파일업로드)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/b98752a5-14cc-4ddd-83f5-17dfe96d4dcd)
 ### 파일 다운로드
 * ###### 게시글 조회할 때 파일 이름을 클릭 시 파일을 다운로드할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/9f8bc8d9-1f0f-4679-a06f-0f22b7253ce0)
+![32(파일 다운로드)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/8a186647-c0ac-430a-9845-f505056f13e9)
 ### 파일 수정
 * ###### 게시글 수정 버튼을 누르면 파일도 같이 수정할 수 있다. 여러 개의 파일을 한 번에 업로드할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/0c83616c-8fa3-47fc-8ed7-4777cac2e602)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/732a8297-8149-43aa-947f-b9bc779a7dda)
+![33(파일 수정)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/5fd9b377-e834-4806-a7bb-ce1860ebdd99)
+![33_2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/4e5dbcae-18ce-4222-b4ed-4ba9bae9caf1)
 ### 파일 삭제
 * ###### 파일을 각각 따로 삭제가 가능합니다. 게시글을 삭제하면 전체 다 삭제됩니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/ac89ecaf-eaa4-4086-ab98-c9550205f31f)
+![34(파일삭제)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/35dd95e7-2b2c-4e01-b22d-cc3e3bafe3f0)
 &nbsp;
 
 ## 회원 기능
 ### 회원가입
 * ###### 메인페이지와 로그인 페이지에서 회원가입을 진행할 수 있다. 
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/8362db1a-91c5-4852-9d3e-7b54df72e582)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/ea7478d9-bd75-4dad-b4de-d059a2a0f17d)
+![35(회원가입)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c9086e59-9734-43f0-b25f-581c13ab6166)
+![35_2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/638b36a4-71dd-4614-a086-93580e556d78)
+![35_3](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/7c7784ef-0a03-4e43-9f49-ee0d8151a6a4)
 * ###### 주소를 입력할 때 카카오주소를 사용하여 입력합니다. 회원가입을 통해 서비스에 사용자 정보를 저장합니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/409610bb-9fee-4e98-9ddd-9fc4a2b41024)
+![36(카카오주소)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/db0e0f35-b8fe-434e-a665-fd787fb93abc)
+&nbsp;
+
 ### 로그인/로그아웃
 * ###### 회원가입할 때 입력했던 아이디와 비밀번호를 입력합니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/034261b2-454f-40a9-b0be-e3e835aa4c66)
+![37(로그인)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/0b832d80-4b4d-4f2d-9f2d-a9fec110817e)
 * ###### 로그인에 성공하면 메인페이지로 자동으로 이동하고 헤더에 사용자의 아이디가 표시됩니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/258cbc9c-f387-4fc0-bdb4-d520200d7841)
+![38(로그인시 메인페이지 이동)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c5abe843-377e-48f2-939c-3e53664d4f3f)
 * ###### 로그인을 완료하면 브라우저의 ```Local Storage``` 에 사용자 ```ID```와 ```JWT``` 토큰 정보를 저장합니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/9c9e8846-04f9-451b-8ca1-a559dbc0d5c4)
+![39(토큰)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/39a63d30-edd6-4f75-912a-90af97b37c09)
 * ###### 로그아웃
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/f30971cd-4cbd-4451-9459-d0bbe9838bb9)
+![40(로그아웃)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/79d4e9fc-f062-43e3-a034-12b6a9423a59)
 * ###### 로그아웃을 완료하면 브라우저의 ```Local Storage``` 의 내용도 삭제합니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/f003cdaf-186a-479e-9f88-ffc3cfabd10f)
+![41(로그아웃 토큰)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/1449ceff-e81a-4da8-bd92-fd2328fe5f41)
+&nbsp;
+
 ### 회원탈퇴
 * ###### 마이페이지(아이디 클릭)에서 회원탈퇴가 가능합니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/396e7510-a9b1-4de5-a446-cb97df610637)
+![42(마이페이지)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/d6759c36-b218-4cf1-ac54-4be87110d98d)
+![42_2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/dc22299f-b316-48c7-b422-7ecf519ac601)
 * ###### DB 에서도 회원 데이터 정보가 삭제된 모습을 볼 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/2596d38b-dbb5-4a44-9c9e-a8ccfd0133c7)
+![43(회원탈퇴 db)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/e02b2ef0-9ec1-41f2-9e43-b949a81ebf99)
 ### 회원정보수정
 * ###### 회원정보수정
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/d0d4f231-0e36-4700-901a-4cc8d823edee)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/058a9cf0-d2f5-45f4-9122-8d95e86ecf8a)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c252e46c-b9e7-4eb3-82c0-19d3ab4c942f)
+![44(회원정보 수정)](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/1fd243da-d796-452e-a98e-918e02cb712c)
+![44_2](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/63d7013a-0fe9-4a27-b704-8c4e48dfc095)
+![44_3](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c8e7cc2c-260d-42b1-8f52-f9f35f019ba3)
 &nbsp;
 
 ## ELK Stack을 이용한 데이터 분석 및 시각화 기능
 ### CSV 데이터를 Elastic 검색으로 가져오고 React를 사용하여 시각화
 * ###### ELK(Elastic search, Logstash, Kibana) Stack을 활용하여 데이터 분석 및 시각화 기능을 보여줍니다. 효율적인 저장 및 인덱싱을 위해 Excel 파일의 데이터를 CSV 형식으로 변환한 다음 ELK로 import.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/b68c89e6-7967-492c-bc43-f6d3ff739b58)
+![8](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/4885aa89-cff6-41a9-addc-e7fbefb158df)
+![9](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c2b0a6ef-ac8d-415f-ba4e-49028610d733)
 * ###### Elastic search에서 가져온 데이터는 React 응용 프로그램을 통해 시각화되고 사용자에게 표시됩니다. 이를 통해 대화형의 사용자 친화적인 데이터 탐색 및 분석이 가능합니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/19bd14cf-8798-46ed-a447-a0705521b0b1)
+![7](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/1965d7e0-7759-4a41-b33c-c18ea62e6645)
 * ###### 대출 제품 데이터를 가져오고, 사용자가 데이터를 검색, 필터링 및 탐색할 수 있습니다. 또한 프록시 구성을 사용하여 React 응용 프로그램과 Elastic 검색 간의 통신이 가능하므로 응용 프로그램이 시각화 및 상호 작용을 위해 Elastic 검색에서 데이터를 검색할 수 있습니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/0ed4d5b7-49e1-4b63-8dc5-fba88971cab0)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/db3fa1c4-6f6e-4da8-b7b1-c9e6a55a54e1)
+![10](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/36ea5996-02b5-4c67-8215-6bbb889365d6)
+![11](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/68f002c4-1413-4015-b7bf-8dc34f8e894a)
 &nbsp;
 
 ## 데이터 예측 기능
 ### 선형 회귀 분석을 사용하여 응답에서 로그인된 쿼리 값에 대한 데이터 검색 자동화 및 DB 업데이트
 * ###### 데이터 예측 기능은 선형 회귀 및 다항식 선형 회귀와 같은 기계 학습 알고리즘을 활용합니다. 로그인한 쿼리 값은 React의 데이터베이스에서 자동으로 가져와 업데이트됩니다. 이를 통해 학습된 AI 모델을 기반으로 예측 금리를 실시간으로 검색하고 활용할 수 있습니다. 선형 회귀 알고리즘은 쿼리 값을 검색하고 업데이트하는 프로세스를 자동화하는 데 사용됩니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/99a7e13a-a77f-4fc6-9055-0fc07223c918)
+![12](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/39b39ef5-89ac-47e7-9c12-5a33721a885f)
+![13](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/54aae90f-aa2b-4517-8d22-d22dcf1106fa)
 * ###### ```Local Storage``` 에서 사용자에 대한 ID값을 가져와 쿼리가 제공된 사용자 ID를 기반으로 데이터베이스에서 연령 및 성별 정보를 검색한다. 그리고 React 코드가 HTTP GET 요청을 Flask API에 수행하여 사용자 ID를 쿼리 매개 변수로 전달할 수 있습니다. 그런 다음 파생된 값을 JSON으로 반환합니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/0266de5d-7e53-4ca3-b815-aa315c35f931)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/1ce5e517-3fde-4420-912a-3e8bc50ada83)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/d05ba660-a371-417f-83cc-f2d8a4f32b25)
+![16](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/d25c77e0-23ba-4c02-a84c-8baf98118bf7)
+![17](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c6fb29ce-dc5e-45be-987f-e90a1fe913c6)
+![19](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/c828663c-b244-43cc-8de2-e2d90dc7dc93)
 ### 대출한도 및 대출 기간 입력에 따른 다항식 선형 회귀를 이용한 금리 예측
 * ###### 다항식 선형회귀는 대출한도와 대출기간 값을 입력하여 금리를 예측하는 데 활용됩니다. 결과 예측은 정확하며 대출 상품의 맥락에서 정보에 입각한 의사 결정을 가능하게 합니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/7ed7db4d-880f-4e6c-a1e8-c178f24e0f95)
+![14](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/ede9eaa4-c505-4a3d-b69b-f2f0f682fe7f)
+![15](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/47314855-74b3-4132-9cef-741f56986f68)
+
 * ###### Flask 서버측 코드는 대출 한도 및 대출 기간 입력을 기반으로 예측을 처리하는 경로를 정의하고 React 구성 요소는 이러한 값을 입력하고 서버에서 반환되는 예측 금리를 표시하는 사용자 인터페이스를 제공합니다.
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/283ea2c9-7792-44fc-a545-7530b5338e52)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/ea89da14-2e52-4f3a-bbb3-9b9c9a82bece)
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/04ed1a44-7ebc-40cb-9a8f-f9f5e4ab5a6b)
+![18](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/24b3fb47-093b-4696-9e1d-1d30f3f8043d)
+![20](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/4f7eca71-7513-4252-bcaa-22a03275ddac)
 &nbsp;
 
 ## ✓ELK
 ### Elasticsearch
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/4502c874-4ee1-4bc5-97dd-7a58d19bb642)
+![7](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/0b2065f1-8754-4fbd-85cf-c9501798afce)
 &nbsp;
 
 ## ✓ERD설계
-![image](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/675ce487-7d23-4a98-8d90-85ee2f067944)
+![6](https://github.com/Hooddduck/BKHJ-frontend/assets/117276980/132866bf-91f7-4f7f-8ac1-a3ddc93f74ac)
 &nbsp;
 
 ## ❕❕트러블슈팅
@@ -457,81 +469,4 @@ pool = PooledDB(
     * 회원가입, 회원정보수정 폼 업데이트 [ back -> front] -> dummy 데이터 생성 및 정제 [ 회귀분석(Python) ] + 금리, 대출한도를 통한 [ 다항선형회귀분석(Python) ] -> 전반적인 UI변경 [ front ]
 
 ============================================================================
-&nbsp;
-스프링 시큐리티
 
-– WebSecurityConfig보안 구현의 핵심[단, 현재 filterchain으로 대체중(deprecated)] =>입니다.
-
-보호 자원에 대한 cors, csrf, 세션 관리, 규칙을 구성한다. 
-
-또한 아래 요소를 포함하는 기본 구성을 확장하고 사용자 정의할 수 있습니다.
-
-– 인터페이스에는 사용자 이름 UserDetailsService 으로 User를 로드하는 메서드가 있으며 Spring Security가 인증 및 유효성 검사에 사용할 수 있는 개체를 반환한다. 
-
-– UserDetails인증 개체를 구축하는 데 필요한 정보(예: 사용자 이름, 암호, 권한)를 포함한다.
-
-– UsernamePasswordAuthenticationToken 로그인 요청에서 {사용자 이름, 비밀번호}를 가져오고 AuthenticationManager이를 사용하여 로그인 계정을 인증합니다.
-
-– 개체의 유효성을 검사하는 AuthenticationManager이 있습니다 . 성공하면 완전히 채워진 인증 개체(부여된 권한 포함)를 반환한다. DaoAuthenticationProviderUserDetailsServicePasswordEncoderUsernamePasswordAuthenticationTokenAuthenticationManager
-
-– OncePerRequestFilterAPI에 대한 각 요청에 대해 단일 실행을 만듭니다. JWT 구문 분석 및 유효성 검사, 사용자 세부 정보 로드( 사용 ), 인증 확인( 사용 ) doFilterInternal()을 구현하는 방법을 제공합니다 .
-[UserDetailsServiceUsernamePasswordAuthenticationToken 사용]
-
-– AuthenticationEntryPoint [인증 오류]를 포착합니다.
-
-- Repository에는 UserRepository와 RoleRepository가 포함되어 있으며, 이들은 데이터베이스와 작업하기 위해 사용됩니다. 이들은 Controller에 import되어 사용됩니다.
-- 
-- Controller는 OncePerRequestFilter에 의해 필터링된 요청을 받아서 처리합니다.
-
-AuthController는 회원 가입 및 로그인 요청을 처리합니다.
-
-TestController는 역할 기반 검증을 통해 보호된 리소스에 접근하는 메서드를 처리합니다.
-
-================================================================================
-
-* 중요 React 화면에서 꼭 auth-header.js에 있는 token을 통해서 api연결을 해야 합니다.
-
-
-지금까지 로그인 관련 Back관련 설명이였습니다.
-
-
-React login 관련 front
-
-다음과 같이 JWT 및 HttpOnly 쿠키를 사용하여 로그인, 로그아웃 및 등록이 포함된 React Hooks 애플리케이션을 빌드합니다.
-
-로그인/로그아웃, 회원가입 페이지가 있습니다.
-양식 데이터는 백엔드로 전송되기 전에 프런트 엔드에서 유효성을 검사합니다.
-사용자의 역할(관리자, 중재자, 사용자)에 따라 탐색 모음 항목이 자동으로 변경됩니다.
-
-[순서 설명]
-
-App 컴포넌트는 React Router (BrowserRouter)와 함께 사용되는 컨테이너입니다. 상태에 따라 Navbar에서 항목을 표시할 수 있습니다.
-
-Login 및 Register 페이지에는 데이터 제출을 위한 폼을 만든다. (react-validation 라이브러리를 지원합니다). 
-
-이들 페이지는 auth.service의 메서드를 호출하여 로그인/회원 가입 요청을 수행합니다.
-
-auth.service의 메서드는 HTTP 요청을 수행하기 위해 axios를 사용합니다. 
-
-또한 이러한 메서드 내에서 브라우저 로컬 스토리지에 사용자 프로필을 저장하거나 가져옵니다.
-
-Home 페이지는 모든 방문자에게 공개됩니다.
-
-Profile 페이지는 로그인 작업이 성공한 후에 사용자 정보를 표시합니다.
-
-BoardUser, BoardModerator, BoardAdmin 페이지는 사용자의 역할에 따라 표시됩니다. 이들 페이지에서는 user.service를 사용하여 웹 API의 보호된 리소스에 액세스합니다.
-
-user.service의 메서드는 보호된 리소스에 액세스하기 위해 인증 요청을 수행하기 위해 axios를 사용합니다 (HttpOnly 쿠키에 JWT를 사용합니다).
-
-[회원정보 수정, 회원 탈퇴 기능은 CRUD기능으로, 게시판 수정 삭제를 확인하시고 응용이 필요합니다]
-
-
-다음으로는,
-
-**게시판 관련 순서** 입니다.
-
-게시판 back관련 부분입니다. 해당 부분은 단순 CRUD 이므로, 순서만 적어놓도록 하겠습니다.
-
-application.properties [mysql 및 추가 되는 기능에 따른 연결 설정 => pom.xml [가장 중요]=> BoardController [ @CrossOrigin(origins = "*")
- @RestController @RequestMapping("/api/auth")] 해당 부분이 중요함 token, security 부분 확인=> Board.java=> BoardRepository.java => BoardService.java => BoardSerivceImpl.java
-&nbsp;
